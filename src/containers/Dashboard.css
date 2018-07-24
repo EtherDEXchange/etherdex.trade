@@ -1,0 +1,8 @@
+.tile {
+  background-color: rgba(176, 190, 197, 0.13);
+  padding: 10px;
+  height: 100%;
+  border-radius: 10px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}

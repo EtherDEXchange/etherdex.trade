@@ -1,0 +1,16 @@
+.tokenSelect {
+  cursor: pointer;
+  color: #212121 !important;
+}
+
+.tokenSelect:hover {
+  color: black !important;
+}
+
+.gasChoiceActive {
+  background-color: #e3e4e5 !important;
+}
+
+.dropdown-item {
+  cursor: pointer;
+}
